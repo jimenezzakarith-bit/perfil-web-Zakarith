@@ -13,7 +13,7 @@ A public web page with six sections:
 
 | Section | What goes there |
 |---|---|
-| Home | Your name, your role, your links |
+| Home | Zakarith Jose Jimenez Hidalgo , your role, your links |
 
 | About | Más que escribir código, me apasiona descifrar problemas y construir soluciones que tengan sentido. Disfruto el proceso de aprender algo nuevo cada día, especialmente cuando implica equivocarme y entender el error a fondo. Para mí, programar no es solo una habilidad técnica, es una forma de pensar y de ver el mundo con lógica y creatividad.
 
