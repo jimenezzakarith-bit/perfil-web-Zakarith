@@ -14,7 +14,14 @@ A public web page with six sections:
 | Section | What goes there |
 |---|---|
 | Home | Your name, your role, your links |
-| About | Two or three sentences about you |
+
+| About | Más que escribir código, me apasiona descifrar problemas y construir soluciones que tengan sentido. Disfruto el proceso de aprender algo nuevo cada día, especialmente cuando implica equivocarme y entender el error a fondo. Para mí, programar no es solo una habilidad técnica, es una forma de pensar y de ver el mundo con lógica y creatividad.
+
+Soy Zakarith, un estudiante que prefiere un código limpio y bien pensado antes que uno que simplemente 'funciona'. Me considero un solucionador de problemas por naturaleza: si hay un bug, lo persigo; si hay una lógica que no encaja, la desarmo hasta entenderla. Mi día a día es una mezcla de paciencia, teclas y café.  
+
+Soy Zakarith, un programador en formación que cree que el buen código empieza por entender el problema, no por escribir la solución. Mi día a día es una mezcla de lógica, paciencia y aprendizaje constante: cada error me enseña más que cada acierto. Programo porque me gusta construir cosas que funcionen y, sobre todo, que tengan sentido.  |
+
+
 | Skills | Your technical and professional skills |
 | Resume | Your education and your experience |
 | Projects | The projects you have built |
