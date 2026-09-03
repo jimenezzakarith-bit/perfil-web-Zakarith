@@ -15,11 +15,11 @@ A public web page with six sections:
 |---|---|
 | Home | Zakarith Jose Jimenez Hidalgo , your role, your links |
 
-| About | Más que escribir código, me apasiona descifrar problemas y construir soluciones que tengan sentido. Disfruto el proceso de aprender algo nuevo cada día, especialmente cuando implica equivocarme y entender el error a fondo. Para mí, programar no es solo una habilidad técnica, es una forma de pensar y de ver el mundo con lógica y creatividad.
+| About | More than just writing code, I am passionate about deciphering problems and building solutions that make sense. I enjoy the process of learning something new every day, especially when it involves making mistakes and fully understanding them. To me, programming isn't just a technical skill; it’s a way of thinking and viewing the world through logic and creativity.
 
-Soy Zakarith, un estudiante que prefiere un código limpio y bien pensado antes que uno que simplemente 'funciona'. Me considero un solucionador de problemas por naturaleza: si hay un bug, lo persigo; si hay una lógica que no encaja, la desarmo hasta entenderla. Mi día a día es una mezcla de paciencia, teclas y café.  
+I’m Zakarith, a student who prefers clean, well-thought-out code over code that simply "works." I consider myself a natural problem solver: if there’s a bug, I hunt it down; if a piece of logic doesn't fit, I take it apart until I understand it. My daily routine is a blend of patience, keystrokes, and coffee.
 
-Soy Zakarith, un programador en formación que cree que el buen código empieza por entender el problema, no por escribir la solución. Mi día a día es una mezcla de lógica, paciencia y aprendizaje constante: cada error me enseña más que cada acierto. Programo porque me gusta construir cosas que funcionen y, sobre todo, que tengan sentido.  |
+I’m Zakarith, a programmer in training who believes that good code begins with understanding the problem, not writing the solution. My day-to-day life is a mix of logic, patience, and constant learning—every mistake teaches me more than every success. I code because I love building things that work and, above all, things that make sense..  |
 
 
 | Skills | Your technical and professional skills |
