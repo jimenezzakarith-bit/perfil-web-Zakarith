@@ -13,7 +13,7 @@ A public web page with six sections:
 
 | Section | What goes there |
 |---|---|
-| Home | Zakarith Jose Jimenez Hidalgo , your role, your links |
+| Home | Zakarith Jose Jimenez Hidalgo , Web Programming Student |
 
 | About | More than just writing code, I am passionate about deciphering problems and building solutions that make sense. I enjoy the process of learning something new every day, especially when it involves making mistakes and fully understanding them. To me, programming isn't just a technical skill; it’s a way of thinking and viewing the world through logic and creativity.
 
@@ -23,7 +23,7 @@ I’m Zakarith, a programmer in training who believes that good code begins with
 
 
 | Skills | Your technical and professional skills |
-| Resume | Your education and your experience |
+| Resume | Professional Technician in Web Programming from UniEspinal, plus my experience  |
 | Projects | The projects you have built |
 | Contact | How people can reach you |
 
