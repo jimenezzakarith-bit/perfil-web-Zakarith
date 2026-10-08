@@ -17,8 +17,8 @@ A public web page with six sections:
 | About | A short story about how I think about code and solve problems |
 | Skills | Technical skills:<br>Frontend Development: I am learning to build responsive web pages with HTML, CSS and JavaScript.<br>Backend Development: I am practicing dynamic features with PHP in my course projects.<br>Database Management: I am learning to create and query MySQL databases.<br><br>Professional skills:<br>Problem Solving: I enjoy finding bugs and understanding why they happen.<br>Teamwork: I listen to others and share ideas to reach a common goal.<br>Continuous Learning: I turn every mistake into a lesson and try to improve each day. |
 | Resume | Técnico Profesional en Programación Web at UniEspinal |
-| Projects | GolValue, Delivery Worldwide and [third project] |
-| Contact | [professional email], [city], Colombia |
+| Projects | ] |
+| Contact | Colombia |
 
 ### About me
 
