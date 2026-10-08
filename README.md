@@ -13,20 +13,16 @@ A public web page with six sections:
 
 | Section | What goes there |
 |---|---|
-| Home | Zakarith Jose Jimenez Hidalgo , Web Programming Student |
+| Home | Zakarith Jose Jimenez Hidalgo, Web Programming Student, links to GitHub and LinkedIn |
+| About | A short story about how I think about code and solve problems |
+| Skills | Technical skills:<br>Frontend Development: I am learning to build responsive web pages with HTML, CSS and JavaScript.<br>Backend Development: I am practicing dynamic features with PHP in my course projects.<br>Database Management: I am learning to create and query MySQL databases.<br><br>Professional skills:<br>Problem Solving: I enjoy finding bugs and understanding why they happen.<br>Teamwork: I listen to others and share ideas to reach a common goal.<br>Continuous Learning: I turn every mistake into a lesson and try to improve each day. |
+| Resume | Técnico Profesional en Programación Web at UniEspinal |
+| Projects | GolValue, Delivery Worldwide and [third project] |
+| Contact | [professional email], [city], Colombia |
 
-| About | More than just writing code, I am passionate about deciphering problems and building solutions that make sense. I enjoy the process of learning something new every day, especially when it involves making mistakes and fully understanding them. To me, programming isn't just a technical skill; it’s a way of thinking and viewing the world through logic and creativity.
+### About me
 
-I’m Zakarith, a student who prefers clean, well-thought-out code over code that simply "works." I consider myself a natural problem solver: if there’s a bug, I hunt it down; if a piece of logic doesn't fit, I take it apart until I understand it. My daily routine is a blend of patience, keystrokes, and coffee.
-
-I’m Zakarith, a programmer in training who believes that good code begins with understanding the problem, not writing the solution. My day-to-day life is a mix of logic, patience, and constant learning—every mistake teaches me more than every success. I code because I love building things that work and, above all, things that make sense..  |
-
-
-| Skills | Technical skills:<br> I am learning to build responsive web pages with HTML, CSS and JavaScript.<br> I am practicing dynamic features with PHP in my course projects.<br> I am learning to create and query MySQL databases.<br><br>Professional skills:<br>Problem Solving: I enjoy finding bugs and understanding why they happen.<br>Teamwork: I listen to others and share ideas to reach a common goal.<br>Continuous Learning: I turn every mistake into a lesson and try to improve each day. |
-
-| Resume | Professional Technician in Web Programming from UniEspinal, plus my experience  |
-| Projects | The projects you have built |
-| Contact | How people can reach you |
+More than just writing code, I am passionate about deciphering problems and building solutions that make sense. I'm Zakarith, a programmer in training who believes that good code begins with understanding the problem, not writing the solution. I prefer clean, well-thought-out code over code that simply "works": if there's a bug, I hunt it down; if a piece of logic doesn't fit, I take it apart until I understand it. Every mistake teaches me more than every success, and my daily routine is a blend of patience, keystrokes and coffee.
 
 ---
 
