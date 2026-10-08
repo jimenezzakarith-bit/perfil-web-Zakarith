@@ -22,7 +22,8 @@ I’m Zakarith, a student who prefers clean, well-thought-out code over code tha
 I’m Zakarith, a programmer in training who believes that good code begins with understanding the problem, not writing the solution. My day-to-day life is a mix of logic, patience, and constant learning—every mistake teaches me more than every success. I code because I love building things that work and, above all, things that make sense..  |
 
 
-| Skills | Your technical and professional skills |
+| Skills | Technical skills:<br>Frontend Development: I am learning to build responsive web pages with HTML, CSS and JavaScript.<br>Backend Development: I am practicing dynamic features with PHP in my course projects.<br>Database Management: I am learning to create and query MySQL databases.<br><br>Professional skills:<br>Problem Solving: I enjoy finding bugs and understanding why they happen.<br>Teamwork: I listen to others and share ideas to reach a common goal.<br>Continuous Learning: I turn every mistake into a lesson and try to improve each day. |
+
 | Resume | Professional Technician in Web Programming from UniEspinal, plus my experience  |
 | Projects | The projects you have built |
 | Contact | How people can reach you |
